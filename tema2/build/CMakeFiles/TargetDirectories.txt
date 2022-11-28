@@ -1,0 +1,3 @@
+/home/alex/lab-paoo/tema2/build/CMakeFiles/rebuild_cache.dir
+/home/alex/lab-paoo/tema2/build/CMakeFiles/edit_cache.dir
+/home/alex/lab-paoo/tema2/build/CMakeFiles/main.dir
