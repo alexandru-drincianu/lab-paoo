@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/alex/lab-paoo/tema1/main.cpp
+/home/alex/lab-paoo/tema3/main.cpp
 iostream
 -
 string
+-
+memory
 -
 
